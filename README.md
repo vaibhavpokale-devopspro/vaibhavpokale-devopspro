@@ -2,6 +2,11 @@
 
 ## Multi-Cloud DevOps Engineer ☁️
 
+Microsoft Certified: DevOps Engineer Expert
+Microsoft Certified: Azure Administrator
+AWS Certified Solutions Architect Associate
+ITIL V3 Foundation
+
 ### **About Me**
 - 🔧 **Expertise**: AWS, Azure, Terraform, Kubernetes, CI/CD Pipelines, Infrastructure as Code (IaC), DevSecOps.
 - 🛠️ **Skills**: 
